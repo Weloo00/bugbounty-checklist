@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+
+# Router credentials — never commit
+*.cred
+.zte-router.cred
+router-creds.json
